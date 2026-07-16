@@ -75,7 +75,7 @@ Depending on the notebook implementation, the project may include:
 
 ---
 
-## 📂 Project Structure
+##  Project Structure
 
 ```
 Supervised_PR4/
